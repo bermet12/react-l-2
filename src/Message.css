@@ -1,0 +1,12 @@
+.post {
+    line-height: 50px;
+    padding: 15px;
+    border: 2px solid teal;
+    margin-bottom: 15px;
+  }
+.text {
+    white-space: pre-line;
+}
+.author {
+    font-weight: bold;
+}
